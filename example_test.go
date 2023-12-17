@@ -7,7 +7,7 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/jonboulle/clockwork"
-	. "github.com/missevne0/gocron/v2" // nolint:revive
+	. "github.com/misseven0/gocron/v2" // nolint:revive
 )
 
 func ExampleAfterJobRuns() {
